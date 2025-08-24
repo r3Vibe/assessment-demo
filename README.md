@@ -65,6 +65,8 @@ Top-level:
 - Git clone the project `git@github.com:r3Vibe/assessment-demo.git`
 - Add database url and openai api key in the `.env` file
 - Run the setup-db file from the `backend` folder
+    - RUN `docker exec -it backend bash`
+    - Once inside RUN `python setup-db.py`
 
 ## Features
 - Streaming Responses
