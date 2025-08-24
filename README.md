@@ -4,7 +4,6 @@ Hi hope you are doing well. Thank you for this opportunity. Given the time i tri
 
 ### Please Follow the SETUP Requirements before running
 
-Here is a loom video link for a walkthrough:- 
 
 ## Table of contents
 
